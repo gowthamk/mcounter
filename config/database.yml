@@ -30,3 +30,8 @@ development:
   username: gowtham
   password: gowtham
   host: localhost
+
+#development:
+#  adapter: postgresql
+#  database: mcounter
+#  host: localhost
